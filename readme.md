@@ -54,4 +54,5 @@ Existe também uma função para limpar os dados armazenados quando o usuário f
 
 
 <b>Projeto desenvolvido durante o Hiring Coders 2021.</b>
+
 <b>Gama Academy / VTEX</b>
